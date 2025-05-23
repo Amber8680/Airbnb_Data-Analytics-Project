@@ -1,9 +1,4 @@
-# Airbnb_Data-Analytics-Project
-Certainly! Here's a refined English version of your project description for the "Airbnb Data Analytics Project Using Python," replacing SQL with Python libraries like Pandas and NumPy:
-
----
-
-### 🏡 Airbnb Data Analytics Project Using Python
+ ###Airbnb Data Analytics Project Using Python###
 
 Tools & Technologies: Python, Pandas, NumPy, Seaborn, Matplotlib
 
